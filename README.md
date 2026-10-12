@@ -1,4 +1,4 @@
-# Document-Based FAQ Assistant (Fresher Project)
+# Document-Based FAQ Assistant 
 
 A small local web app that answers questions by finding relevant passages in a folder of documents. It uses TF-IDF and cosine similarity for retrieval, then displays the original passage and filename as evidence. It does not call an external AI service or make up a generated answer.
 
